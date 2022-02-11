@@ -1,0 +1,3 @@
+Tooltip_PTBR = {
+	Tooltip_TADcard = "Danças especiais estão disponíveis para você quando esta carta está em seu inventário",
+}
