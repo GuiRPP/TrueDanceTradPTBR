@@ -72,7 +72,7 @@ ItemName_PTBR = {
 	ItemName_TAD.BobTA_Snake_card                              = "Carta de Dança (22 de 30) 'Hip Hop - Cobra'",
 	ItemName_TAD.BobTA_Tut_One_card                            = "Carta de Dança (23 de 30) 'Hip Hop - Safado #1'",
 	ItemName_TAD.BobTA_Tut_Two_card                            = "Carta de Dança (24 de 30) 'Hip Hop - Safado #2'",
-	ItemName_TAD.BobTA_Wave_One_card                           = "Carta de Dança (25 de 30) 'Hip Hop - Wave #1'",
+	ItemName_TAD.BobTA_Wave_One_card                           = "Carta de Dança (25 de 30) 'Hip Hop - Onda #1'",
 	ItemName_TAD.BobTA_Wave_Two_card                           = "Carta de Dança (26 de 30) 'Hip Hop - Onda #2'",
 															   
 	ItemName_TAD.BobTA_Thriller_One_card                       = "Carta de Dança (27 de 30) 'Thriller #1'",
