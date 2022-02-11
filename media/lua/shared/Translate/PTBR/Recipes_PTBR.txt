@@ -44,7 +44,7 @@ Recipe_PTBR = {
 	Recipe_BobTA_Side_to_Side                    = "Dança 'Lado a Lado'",
 	Recipe_BobTA_Twist_#1                        = "Dança 'Twist #1'",
 	Recipe_BobTA_Twist_#2                        = "Dança 'Twist #2'",
-	Recipe_BobTA_Uprock_Indian_Step              = "Dança 'Passo Indiano'",
+	Recipe_BobTA_Uprock_Indian_Step              = "Dança 'Passo Indiano Rochedo'",
 													   
 	Recipe_BobTA_Thriller_One                    = "Dança 'Thriller #1'",
 	Recipe_BobTA_Thriller_Two                    = "Dança 'Thriller #2'",
