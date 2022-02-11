@@ -14,7 +14,7 @@ ItemName_PTBR = {
 	ItemName_TAD.BobTA_Bboy_Hip_Hop_Three_Mag                  = "Revista de Dança (n.10) 'Hip Hop #3'",
 	ItemName_TAD.BobTA_Body_Wave_Mag                           = "Revista de Dança (n.11) 'Onda Corporal'",
 	ItemName_TAD.BobTA_Booty_Step_Mag                          = "Revista de Dança (n.12) 'Dança da Recompensa'",
-	ItemName_TAD.BobTA_Breakdance_Brooklyn_Uprock_Mag          = "Revista de Dança (n.13) 'Breakdance - Brooklyn'",
+	ItemName_TAD.BobTA_Breakdance_Brooklyn_Uprock_Mag          = "Revista de Dança (n.13) 'Breakdance - Rochedo do Brooklyn'",
 	ItemName_TAD.BobTA_Cabbage_Patch_Mag                       = "Revista de Dança (n.14) 'Dança do Repolho'",
 	ItemName_TAD.BobTA_Can_Can_Mag                             = "Revista de Dança (n.15) 'Cancã'",
 	ItemName_TAD.BobTA_Chicken_Mag                             = "Revista de Dança (n.16) 'Galinha'",
@@ -45,7 +45,7 @@ ItemName_PTBR = {
 	ItemName_TAD.BobTA_Side_to_Side_Mag                        = "Revista de Dança (n.41) 'Lado a Lado'",
 	ItemName_TAD.BobTA_Twist_One_Mag                           = "Revista de Dança (n.42) 'Twist #1'",
 	ItemName_TAD.BobTA_Twist_Two_Mag                           = "Revista de Dança (n.43) 'Twist #2'",
-	ItemName_TAD.BobTA_Uprock_Indian_Step_Mag                  = "Revista de Dança (n.44) 'Passo Indiano'",
+	ItemName_TAD.BobTA_Uprock_Indian_Step_Mag                  = "Revista de Dança (n.44) 'Passo Indiano Rochedo'",
 	ItemName_TAD.BobTA_YMCA_Mag                                = "Revista de Dança (n.45) 'YMCA'",
 															   
 	ItemName_TAD.BobTA_Afoxe_Samba_Raggae_card                 = "Carta de Dança (01 de 30) 'Samba - Reggae'",
